@@ -1,4 +1,6 @@
 This page contains links to the `wordle` variants out there
+Open issue to submit new wordle variant! 
+
 
 ### The original
 https://www.nytimes.com/games/wordle/index.html

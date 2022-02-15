@@ -1,5 +1,6 @@
 This page contains links to the `wordle` variants out there
-Open issue to submit new wordle variant! 
+
+Open an issue to submit new wordle variant! 
 
 
 ### The original

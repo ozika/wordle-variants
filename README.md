@@ -5,10 +5,10 @@ https://www.nytimes.com/games/wordle/index.html
 
 ### Language-based
 
-**Semantic wordle**
+**Semantic wordle**  
 https://semantle.novalis.org/
 
-**4-word wordle**
+**4-word wordle**  
 https://www.quordle.com/#/
 
 ### Geo-based
